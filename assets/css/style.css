@@ -20,7 +20,8 @@ a {
 }
 
 a:hover {
-  color: #c2b31 text-decoration: none;
+  color: #c2b31;
+  text-decoration: none;
 }
 
 h1,
@@ -56,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #c2b31;
+  background: #ca2b31;
   color: #fff;
 }
 
@@ -78,7 +79,7 @@ h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #39312f;
+  background: #b6272c;
   font-size: 14px;
   padding: 0;
   color: rgba(255, 255, 255, 0.8);
@@ -290,7 +291,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #473d3a;
+  color: #ca2b31;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -348,7 +349,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #473d3a;
+  color: #ca2b31;
 }
 
 .navbar-mobile a:hover,
@@ -645,14 +646,14 @@ section {
 --------------------------------------------------------------*/
 .about .icon-boxes h4 {
   font-size: 18px;
-  color: #7f6d68;
+  color: #efbfc1;
   margin-bottom: 15px;
 }
 
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #554945;
+  color: #ca2b31;
   margin-bottom: 15px;
 }
 
@@ -920,7 +921,7 @@ section {
 }
 
 .values .card-title a {
-  color: #473d3a;
+  color: #ca2b31;
 }
 
 .values .card-text {
@@ -1108,11 +1109,11 @@ section {
   font-size: 18px;
   color: #fff;
   font-weight: 600;
-  color: #473d3a;
+  color: #ca2b31;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
-  color: #7f6d68;
+  color: #efbfc1;
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -1260,7 +1261,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #473d3a;
+  color: #ca2b31;
   margin: 0 10px;
   display: inline-flex;
   align-items: center;
@@ -1284,7 +1285,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 18px;
-  color: #473d3a;
+  color: #ca2b31;
 }
 
 .team .member .member-info span {
@@ -1646,7 +1647,7 @@ section {
 }
 
 .blog .entry .entry-title a {
-  color: #473d3a;
+  color: #ca2b31;
   transition: 0.3s;
 }
 
@@ -1739,7 +1740,7 @@ section {
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: #473d3a;
+  background-color: #ca2b31;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -1755,7 +1756,7 @@ section {
 }
 
 .blog .entry .entry-footer a {
-  color: #554945;
+  color: #ca2b31;
   transition: 0.3s;
 }
 
@@ -1819,7 +1820,7 @@ section {
   font-size: 22px;
   margin-bottom: 0px;
   padding: 0;
-  color: #473d3a;
+  color: #ca2b31;
 }
 
 .blog .blog-author .social-links {
@@ -1827,7 +1828,7 @@ section {
 }
 
 .blog .blog-author .social-links a {
-  color: rgba(71, 61, 58, 0.5);
+  color: rgba(202, 43, 49 58, 0.5);
   margin-right: 5px;
 }
 
@@ -1874,7 +1875,7 @@ section {
 
 .blog .blog-comments .comment h5 .reply {
   padding-left: 10px;
-  color: #473d3a;
+  color: #ca2b31;
 }
 
 .blog .blog-comments .comment h5 .reply i {
@@ -1937,15 +1938,15 @@ section {
   border-radius: 4px;
   padding: 10px 20px;
   border: 0;
-  background-color: #473d3a;
+  background-color: #ca2b31;
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
-  background-color: #554945;
+  background-color: #ca2b31;
 }
 
 .blog .blog-pagination {
-  color: #7f6d68;
+  color: #efbfc1;
 }
 
 .blog .blog-pagination ul {
@@ -1961,7 +1962,7 @@ section {
 }
 
 .blog .blog-pagination li a {
-  color: #473d3a;
+  color: #ca2b31;
   padding: 7px 16px;
   display: flex;
   align-items: center;
@@ -1989,7 +1990,7 @@ section {
   font-weight: 700;
   padding: 0 0 0 0;
   margin: 0 0 15px 0;
-  color: #473d3a;
+  color: #ca2b31;
   position: relative;
 }
 
@@ -2046,7 +2047,7 @@ section {
 }
 
 .blog .sidebar .categories ul a {
-  color: #473d3a;
+  color: #ca2b31;
   transition: 0.3s;
 }
 
@@ -2076,7 +2077,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a {
-  color: #473d3a;
+  color: #ca2b31;
   transition: 0.3s;
 }
 
